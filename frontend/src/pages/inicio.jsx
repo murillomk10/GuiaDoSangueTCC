@@ -39,10 +39,16 @@ export default function Inicio() {
                                 <button className="btn-doacao">AGENDE SUA DOAÇÃO</button>
                                 <button className="btn-doacao">SAIBA COMO DOAR</button>
                             </div>
+
+                        
                         </div>
                     </SwiperSlide>
                 ))}
             </Swiper>
+
+            <div>
+                
+            </div>
         </div>
     );
 }
