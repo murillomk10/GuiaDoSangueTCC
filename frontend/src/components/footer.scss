@@ -1,0 +1,26 @@
+.cabecalho{ 
+    background-color: #241E4E;
+    display: flex;
+    padding: 30px;
+    gap: 1600px;
+
+    img{
+        height: 50px;
+        
+    }
+}
+
+.GuiaDoSangue{
+    background-color: #BF0603;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 500px;
+    align-items: center;
+    padding: 100px;
+    
+    logo{
+        text-align: center;
+
+    }
+}
