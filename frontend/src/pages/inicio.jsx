@@ -7,6 +7,7 @@ import { Navigation, Pagination } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
+import Footer from '../components/footer'
 
 export default function Inicio() {
     const data = [
@@ -43,6 +44,7 @@ export default function Inicio() {
                     </SwiperSlide>
                 ))}
             </Swiper>
+            <Footer/>
         </div>
     );
 }

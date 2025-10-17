@@ -11,7 +11,7 @@ export default function () {
                     <li><Link to="/">Quem Somos</Link></li>
                     <li><Link to="">Requisitos Para a Doação de Sangue</Link></li>
                     <li><Link to="">Onde Doar</Link></li>
-                    <li><Link tt="">Contato</Link></li>
+                    <li><Link to="">Contato</Link></li>
                 </ol>
                 <button>Fazer Login</button>
             </nav>
